@@ -1,0 +1,13 @@
+Package: Rsemstorm
+Type: Package
+Title: Pakiet umożliwia pobieranie danych z SemStorm (widoczność witryny w Top 50 i estymowany ruch)
+Version: 0.1.0
+Author: Sebastian Mioduszewski
+Maintainer: Sebastian Mioduszewski <sebastian.mioduszewski@op.pl>
+Description: Pobieranie danych semstorm
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+Imports:
+  httr,jsonlite,openxlsx,dplyr
+RoxygenNote: 6.1.1
