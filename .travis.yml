@@ -1,2 +1,2 @@
-# Use R language
-language: r
+ language: R
+ cache: packages
