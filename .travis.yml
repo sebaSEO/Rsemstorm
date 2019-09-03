@@ -1,2 +1,6 @@
- language: R
- cache: packages
+language: r
+cache: packages
+ 
+script:
+   - R CMD build .
+   - R CMD check *tar.gz
