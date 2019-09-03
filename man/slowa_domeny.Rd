@@ -17,5 +17,5 @@ slowa_domeny(domena, rodzaj_slowa, kluczAPI)
 Pakiet umożliwia pobieranie danych z SemStorm (widoczność witryny w Top 50 i estymowany ruch)
 }
 \examples{
-slowa_domeny('domena.pl',all,"9fxjh-6kEaUTMhPo4")
+slowa_domeny('domena.pl',all,"9fxjh")
 }
