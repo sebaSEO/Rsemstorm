@@ -4,7 +4,6 @@
 #' @param rodzaj_slowa dostępne all (słowa na której obecnie widoczna jest domena), new (nowe słowa), lost (utracone słowa)
 #' @param kluczAPI klucz API semstorm
 #' @return NULL
-#' @examples slowa_domeny('domena.pl',all,"9fxjh-6kEaUTMhPo4")
 #' @export slowa_domeny
 
 slowa_domeny <- function(domena,rodzaj_slowa,kluczAPI) {
